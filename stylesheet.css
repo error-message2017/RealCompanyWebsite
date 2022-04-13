@@ -29,10 +29,10 @@ li:hover {
     background-color:4a5759;
     color: b0c4b1;
     text-align: center;
-    font-size: 1.5rem;
     font-variant: small-caps;
     font-style:oblique;
-    font-family: 'Dancing Script', cursive;;
+    font-family: 'Babylonica', cursive;;
+    font-size: 1.5rem;
     padding-right: 0;
     
 }
@@ -67,6 +67,24 @@ img {
 }
 
 .products {
+    text-align: center;
+    margin: 40px;
+    color: 4a5759;
+    font-style:normal;
+    font-family: 'Dancing Script', cursive;;
+    font-size: 1.2rem;
+}
+
+.aboutus {
+    text-align: center;
+    font-variant: small-caps;
+    font-style:oblique;
+    font-family: 'Dancing Script', cursive;;
+    font-size: 1.5rem;
+    color: 4a5759;
+}
+
+.people {
     text-align: center;
     margin: 40px;
     color: 4a5759;
